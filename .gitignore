@@ -68,6 +68,7 @@ target/
 .ipynb_checkpoints
 
 #############################################
+# End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,macos,linux,windows,visualstudiocode,pycharm,venv
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,macos,linux,windows,visualstudiocode,pycharm,venv
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,macos,linux,windows,visualstudiocode,pycharm,venv
@@ -472,5 +473,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-# End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,macos,linux,windows,visualstudiocode,pycharm,venv
