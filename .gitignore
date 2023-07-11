@@ -62,7 +62,8 @@ target/
 .python-version
 
 # exclude data from source control by default
-/data/
+/data/*
+!/data/README.md
 
 # ipynb checkpoints
 .ipynb_checkpoints
